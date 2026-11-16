@@ -1,6 +1,6 @@
 # Hi, I'm Omar Abd El Raouf 👋
 
-### Flutter Developer at The One System | Software Engineering Student
+### Flutter Developer | Software Engineering Student
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=620&lines=Flutter+Developer;Building+cross-platform+mobile+apps;Clean+Architecture+%26+BLoC)
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Flutter Developer working at The One System since September 2026, and a Software Engineering student at the Faculty of Computer and Information Sciences. I build cross-platform mobile apps with Flutter and Dart, with a focus on clean architecture and maintainable code.
+I build cross-platform mobile apps with Flutter and Dart, focusing on clean architecture and maintainable code.
 
 ## 🛠 Tech Stack
 
