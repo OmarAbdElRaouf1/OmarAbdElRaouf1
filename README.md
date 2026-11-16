@@ -12,20 +12,20 @@ I build cross-platform mobile apps with Flutter and Dart, focusing on clean arch
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=flutter,dart,git,github)
+![Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github)
 
 ![BLoC / Cubit](https://img.shields.io/badge/State%20Management-BLoC%20%2F%20Cubit-0175C2?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-02569B?style=flat-square) ![Dio and REST APIs](https://img.shields.io/badge/Networking-Dio%20%7C%20REST%20APIs-13B9FD?style=flat-square)
 
 ## 🚀 Featured Projects
 
-| Project | Stack |
+| Project | Description |
 | --- | --- |
-| [Trendiva](https://github.com/OmarAbdElRaouf1/Trendiva) | Flutter, Dart |
-| [docdoc](https://github.com/OmarAbdElRaouf1/docdoc) | Flutter, Dart |
-| [Fruits-Hub](https://github.com/OmarAbdElRaouf1/Fruits-Hub) | Flutter, Dart |
-| [fruits-hub-dashboard](https://github.com/OmarAbdElRaouf1/fruits-hub-dashboard) | Flutter, Dart |
-| [adam_center](https://github.com/OmarAbdElRaouf1/adam_center) | Flutter, Dart |
-| [Spotify](https://github.com/OmarAbdElRaouf1/Spotify) | Flutter, Dart |
+| [Trendiva](https://github.com/OmarAbdElRaouf1/Trendiva) | Flutter e-commerce app built with a team during the NTI training program: authentication, categories, product details, cart, favorites and search. Cubit/BLoC, Clean Architecture, Dio. |
+| [Spotify](https://github.com/OmarAbdElRaouf1/Spotify) | Spotify-style music app with Bloc and Hydrated Bloc, Supabase (auth, storage, database) and background audio playback. |
+| [docdoc](https://github.com/OmarAbdElRaouf1/docdoc) | Flutter app (Dart). |
+| [Fruits-Hub](https://github.com/OmarAbdElRaouf1/Fruits-Hub) | Flutter app (Dart). |
+| [fruits-hub-dashboard](https://github.com/OmarAbdElRaouf1/fruits-hub-dashboard) | Flutter app (Dart). |
+| [adam_center](https://github.com/OmarAbdElRaouf1/adam_center) | Flutter app (Dart). |
 
 ## 📊 GitHub Stats
 
